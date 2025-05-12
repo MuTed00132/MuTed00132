@@ -7,4 +7,4 @@
 
 - 👔 推薦函：[教授推薦函](https://github.com/MuTed00132/MuTed00132/blob/main/professor.pdf)
 - 👔 推薦函：[主管推薦函](https://github.com/MuTed00132/MuTed00132/blob/main/manager.jpg)
-- 👔 推薦函：[同事推薦函](https://github.com/MuTed00132/MuTed00132/blob/main/README.md)
+
